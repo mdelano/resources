@@ -3,6 +3,7 @@
 * meteor  : [https://www.meteor.com/](https://www.meteor.com/)
 * polymer : [https://www.polymer-project.org/] (https://www.polymer-project.org/)
 * react   : [http://facebook.github.io/react/] (http://facebook.github.io/react/)
+* bootstrap ui kit : [http://bootstrapuikit.com/] (http://bootstrapuikit.com/)
  
 ### Mobile App Frameworks
 * reapp   : [http://reapp.io/] (http://reapp.io/)
