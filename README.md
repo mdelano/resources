@@ -20,3 +20,7 @@
 * 
 ### Terminal
 * ascii cinema [https://asciinema.org/] (https://asciinema.org/)
+
+### Fun with Containers
+* Iron Worker [http://www.iron.io/worker](http://www.iron.io/worker)
+* Deis [http://deis.io/](http://deis.io/)
