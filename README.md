@@ -4,12 +4,14 @@
 * polymer : [https://www.polymer-project.org/] (https://www.polymer-project.org/)
 * react   : [http://facebook.github.io/react/] (http://facebook.github.io/react/)
 * bootstrap ui kit : [http://bootstrapuikit.com/] (http://bootstrapuikit.com/)
+* salis : [http://sailsjs.org/#!/](http://sailsjs.org/#!/)
  
 ### Mobile App Frameworks
 * reapp   : [http://reapp.io/] (http://reapp.io/)
 
 ### Rest Frameworks
 * strongloop  : [http://strongloop.com/](http://strongloop.com/)
+* Restify [mcavage.me/node-restify/](mcavage.me/node-restify/)
 
 ### Cool Things
 * Govcode : [https://www.govcode.org/](https://www.govcode.org/)
