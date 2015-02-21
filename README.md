@@ -33,6 +33,8 @@
 * Weld [https://www.weld.io](https://www.weld.io)
 
 ## Editors
-* brackets [http://brackets.io/](http://brackets.io/)
 * atom [https://atom.io/] (https://atom.io/)
+* lighttable [http://lighttable.com/](http://lighttable.com/)
+* sublime [http://www.sublimetext.com/](http://www.sublimetext.com/)
+* brackets [http://brackets.io/](http://brackets.io/)
 * koding [https://koding.com/](https://koding.com/)
