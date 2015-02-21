@@ -31,3 +31,8 @@
 * Squarespace [http://www.squarespace.com/](http://www.squarespace.com/)
 * Layers [http://try.layerswp.com/](http://try.layerswp.com/)
 * Weld [https://www.weld.io](https://www.weld.io)
+
+## Editors
+brackets [http://brackets.io/](http://brackets.io/)
+atom [https://atom.io/] (https://atom.io/)
+koding [https://koding.com/](https://koding.com/)
