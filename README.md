@@ -32,12 +32,15 @@
 * Layers [http://try.layerswp.com/](http://try.layerswp.com/)
 * Weld [https://www.weld.io](https://www.weld.io)
 
-## Editors
+### Editors
 * atom [https://atom.io/] (https://atom.io/)
 * lighttable [http://lighttable.com/](http://lighttable.com/)
 * sublime [http://www.sublimetext.com/](http://www.sublimetext.com/)
 * brackets [http://brackets.io/](http://brackets.io/)
 * koding [https://koding.com/](https://koding.com/)
 
-## Services
+### Services
 * appbase [https://appbase.io/](https://appbase.io/)
+
+### Editing
+* polarr [https://v2.polarr.co/](https://v2.polarr.co/)
