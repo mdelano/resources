@@ -15,6 +15,7 @@
 
 ### Cool Things
 * Govcode : [https://www.govcode.org/](https://www.govcode.org/)
+* Freebie [http://freebie.supply/](http://freebie.supply/)
 
 ### Scraping
 * xray : [https://github.com/lapwinglabs/x-ray](https://github.com/lapwinglabs/x-ray)
