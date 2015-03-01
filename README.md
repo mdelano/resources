@@ -50,3 +50,7 @@
 * html5up [http://html5up.net/](http://html5up.net/)
 * bootswatch [http://bootswatch.com/](http://bootswatch.com/)
 * templated [http://templated.co/](http://templated.co/)
+
+### Image Recognition
+* Cloudsight [http://cloudsightapi.com/](http://cloudsightapi.com/)
+* Alchemy [http://www.alchemyapi.com/](http://www.alchemyapi.com/)
